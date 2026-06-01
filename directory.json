@@ -207,7 +207,7 @@
   "Umeå Hackerspace": "https://umeahackerspace.se/spaceapi.json",
   "UrLab": "https://urlab.be/spaceapi.json",
   "VoidWarranties": "https://spaceapi.voidwarranties.be",
-  "WAK-Lab e.V.": "http://li.wak-lab.org/spaceapi.json",
+  "WAK-Lab e.V.": "https://li.wak-lab.org/spaceapi.json",
   "Warpzone e.V.": "https://api.warpzone.ms/spaceapi",
   "Warsaw Hackerspace": "https://hackerspace.pl/spaceapi",
   "Westwoodlabs": "https://api.westwoodlabs.de/spaceapi",
